@@ -1,0 +1,18 @@
+c:\users\gesanidas\documents\visual studio 2017\Projects\MyCompany\MyCompany\bin\Debug\netcoreapp1.1\MyCompany.deps.json
+c:\users\gesanidas\documents\visual studio 2017\Projects\MyCompany\MyCompany\bin\Debug\netcoreapp1.1\MyCompany.runtimeconfig.json
+c:\users\gesanidas\documents\visual studio 2017\Projects\MyCompany\MyCompany\bin\Debug\netcoreapp1.1\MyCompany.runtimeconfig.dev.json
+c:\users\gesanidas\documents\visual studio 2017\Projects\MyCompany\MyCompany\bin\Debug\netcoreapp1.1\MyCompany.dll
+c:\users\gesanidas\documents\visual studio 2017\Projects\MyCompany\MyCompany\bin\Debug\netcoreapp1.1\MyCompany.pdb
+c:\users\gesanidas\documents\visual studio 2017\Projects\MyCompany\MyCompany\obj\Debug\netcoreapp1.1\MyCompany.AssemblyInfo.cs
+c:\users\gesanidas\documents\visual studio 2017\Projects\MyCompany\MyCompany\obj\Debug\netcoreapp1.1\MyCompany.dll
+c:\users\gesanidas\documents\visual studio 2017\Projects\MyCompany\MyCompany\obj\Debug\netcoreapp1.1\MyCompany.pdb
+c:\users\gesanidas\documents\visual studio 2017\Projects\MyCompany\MyCompany\obj\Debug\netcoreapp1.1\MyCompany.csprojResolveAssemblyReference.cache
+C:\Users\gesanidas\Dropbox\android\Company-Complete\MyCompany\MyCompany\bin\Debug\netcoreapp1.1\MyCompany.deps.json
+C:\Users\gesanidas\Dropbox\android\Company-Complete\MyCompany\MyCompany\bin\Debug\netcoreapp1.1\MyCompany.runtimeconfig.json
+C:\Users\gesanidas\Dropbox\android\Company-Complete\MyCompany\MyCompany\bin\Debug\netcoreapp1.1\MyCompany.runtimeconfig.dev.json
+C:\Users\gesanidas\Dropbox\android\Company-Complete\MyCompany\MyCompany\bin\Debug\netcoreapp1.1\MyCompany.dll
+C:\Users\gesanidas\Dropbox\android\Company-Complete\MyCompany\MyCompany\bin\Debug\netcoreapp1.1\MyCompany.pdb
+C:\Users\gesanidas\Dropbox\android\Company-Complete\MyCompany\MyCompany\obj\Debug\netcoreapp1.1\MyCompany.csprojResolveAssemblyReference.cache
+C:\Users\gesanidas\Dropbox\android\Company-Complete\MyCompany\MyCompany\obj\Debug\netcoreapp1.1\MyCompany.AssemblyInfo.cs
+C:\Users\gesanidas\Dropbox\android\Company-Complete\MyCompany\MyCompany\obj\Debug\netcoreapp1.1\MyCompany.dll
+C:\Users\gesanidas\Dropbox\android\Company-Complete\MyCompany\MyCompany\obj\Debug\netcoreapp1.1\MyCompany.pdb
