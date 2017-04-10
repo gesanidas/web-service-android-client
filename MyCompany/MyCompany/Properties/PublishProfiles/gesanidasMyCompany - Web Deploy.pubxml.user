@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtsqHyymRl0KfdoSJTG1xAwAAAAACAAAAAAAQZgAAAAEAACAAAAC+Hgy/AdOKJoP8iORnzuQsafIc7yPqki8bbMUao2idtAAAAAAOgAAAAAIAACAAAACBoWXub4ck57yXfH8mJV6ntFxpK9Kgt4qHqlF1Ubc7eoAAAAB0LV1JPbOHlLXPUJbXfhvOvdbvJJjg06w17c9/1nbHzI1V3rIO0M89TvkoL3eY7W5odYOjkZoHfrBEUXDZS3ky4wiq8sCoMa71JC6PkMhXrhWRIh6liLqmksuDJ27Sv7zCxPlXCJi6j3v/vsWJ1SN+DYJeF/KGdQsLFXq65oHIFkAAAACW/L7BWjpFJ4XTAlQ2+a01NE4lt7jfQ/7FXhVDMO0u9HpfAqBGekD8/fk7NibhwTJUilivynONX+CkXpOCsDKR</EncryptedPassword>
+    <_NewBackgroundProfile>False</_NewBackgroundProfile>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="MyCompanyContext">
+      <Value>Data Source=tcp:gesanidasmycompanydbserver.database.windows.net,1433;Initial Catalog=gesanidasMyCompany_db;User Id=gesanidas@gesanidasmycompanydbserver;Password=Evolution1</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="MyCompany.Models.MyCompanyContext">
+      <Value>Data Source=tcp:gesanidasmycompanydbserver.database.windows.net,1433;Initial Catalog=gesanidasMyCompany_db;User Id=gesanidas@gesanidasmycompanydbserver;Password=Evolution1</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
